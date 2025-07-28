@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body{
+  /* width: 700px; */
+  /* height: 100vh; */
+
+  padding:0;
+  margin:0 auto;
+  /* border: 1px solid grey; */
+  /* border-radius: 10px; */
+
+  font-family: "Inter", sans-serif;
+  background: #282D35;
+  color: white;
+
+}
+

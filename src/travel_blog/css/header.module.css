@@ -1,0 +1,29 @@
+.header{
+    background-color: orangered;
+    height: 60px;
+    
+    border-radius: 10px 10px 0 0;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logoImg{
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .logoText{
+    font-size: 1rem;
+    font-weight: bold;
+  
+    color: white;
+  }
+  
